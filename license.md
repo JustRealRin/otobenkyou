@@ -1,8 +1,11 @@
 # License for After going to Hong Kong,I(Otokonoko)had planned to focus on studying,but suddenly,a girl confessed her love to me? What should I do…?
 
 **Software Name:** After going to Hong Kong,I(Otokonoko)had planned to focus on studying,but suddenly,a girl confessed her love to me? What should I do…?
-**Developer:** Rin
+
+**Developer:** Rinnnnn Studio
+
 **Date:** August 2025  
+
 **License:** GNU General Public License v3.0 (GPLv3)
 
 ---
